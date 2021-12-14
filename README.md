@@ -23,7 +23,7 @@
 
 # Data Science Components
 
-![title](assets/DataSicence-Journey.jpg)
+![title](assets/Slide2)
 
 
 # Data Science Roadmap
