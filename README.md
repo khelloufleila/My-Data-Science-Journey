@@ -14,7 +14,7 @@
 
 # Data Science Joourney
 
-![title](assets/DataScience-Journey.png)
+![title](assets/Slide3.png)
 
 
 
