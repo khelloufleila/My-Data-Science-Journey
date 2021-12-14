@@ -30,7 +30,6 @@
 
 ![title](assets/roadmap.png)
 
-
 # Content
 
 ## [1. Math & Statistics](./1-Math-Statistics/)
