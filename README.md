@@ -23,7 +23,7 @@
 
 # Data Science Components
 
-![title](assets/Slide2)
+![title](assets/Slide2.png)
 
 
 # Data Science Roadmap
