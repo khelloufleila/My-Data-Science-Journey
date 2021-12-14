@@ -45,11 +45,7 @@
 
 ## [8. Deep Learning](./8-Deep-Learning/)
 
-## [9. Reinforcement Learning](./9-Reinforcement-Learning/)
-
 ## [10. Analytics](./10-Analytics/)
-
-## [11. R & RStudio](./11-R/)
 
 ## [12. Visual Computing](./12-Visual-Computing/)
 
@@ -63,16 +59,7 @@
 
 ## [18. Kaggle & AI Competitions](./18-Kaggle/)
 
-## [19. GIS & Maps](./19-GIS-Maps/)
-
 ## [20. SQL](./20-SQL/)
-
-## [21. Storing-Telling](./21-Storing-Telling/)
-
-## [22. Web Scrapping](./22-Web-Scrapping/)
-
-## [23. Autonomous Car](./23-Autonomous-Car/)
-
 
 
 
